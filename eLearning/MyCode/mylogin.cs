@@ -27,6 +27,7 @@ namespace eLearning.MyCode
             EditText txtUser = FindViewById<EditText>(Resource.Id.txtUsername);
             EditText txtPassword = FindViewById<EditText>(Resource.Id.txtPassword);
             // Create your application here
+
             loginbtn.Click += delegate
              {
                  Intent successLogin = new Intent(this, typeof(MainActivity));
