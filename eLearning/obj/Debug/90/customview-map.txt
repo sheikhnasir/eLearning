@@ -12,10 +12,10 @@ external-cache-path;D:\Project\elearning\eLearning\eLearning\obj\Debug\90\lp\35\
 external-path;D:\Project\elearning\eLearning\eLearning\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+ImageView;obj\Debug\90\res\layout\activity_login.xml
 item;obj\Debug\90\res\menu\navigation.xml
 item;obj\Debug\90\res\values\styles.xml
 LinearLayout;obj\Debug\90\res\layout\activity_login.xml
-LinearLayout;obj\Debug\90\res\layout\secure\activity_login.xml
 menu;obj\Debug\90\res\menu\navigation.xml
 path;obj\Debug\90\res\drawable\ic_dashboard_black_24dp.xml
 path;obj\Debug\90\res\drawable\ic_home_black_24dp.xml

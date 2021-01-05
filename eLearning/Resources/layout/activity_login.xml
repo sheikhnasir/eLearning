@@ -3,12 +3,18 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView1" />
     <RelativeLayout
         android:minWidth="25px"
         android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/relativeLayout1" >
+
         <LinearLayout
             android:orientation="vertical"
             android:minWidth="25px"
@@ -24,12 +30,12 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/linearLayout2">
-             <TextView
-            android:textAppearance="?android:attr/textAppearanceLarge"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/pagetitle"
-            android:text="@string/mylogin_page" />
+                <TextView
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:layout_width="379.0dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/pagetitle"
+                    android:text="@string/mylogin_page" />
         </LinearLayout> />
 
     <LinearLayout
@@ -39,12 +45,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout1">
-        <EditText
-            android:inputType="textEmailAddress"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/login"
-            android:hint="Please enter your email " />
+                <EditText
+                    android:inputType="textEmailAddress"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/login"
+                    android:hint="Please enter your email " />
     </LinearLayout> />
     </LinearLayout> />
     </RelativeLayout>
