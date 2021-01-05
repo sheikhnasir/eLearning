@@ -7,6 +7,7 @@ cache-path;D:\Project\elearning\eLearning\eLearning\obj\Debug\90\lp\35\jl\res\xm
 color;obj\Debug\90\res\values\colors.xml
 color;obj\Debug\90\res\values\ic_launcher_background.xml
 dimen;obj\Debug\90\res\values\dimens.xml
+EditText;obj\Debug\90\res\layout\activity_login.xml
 external-cache-path;D:\Project\elearning\eLearning\eLearning\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 external-path;D:\Project\elearning\eLearning\eLearning\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
