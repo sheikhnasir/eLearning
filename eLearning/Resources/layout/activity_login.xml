@@ -8,6 +8,13 @@
         android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/relativeLayout1" />
+        android:id="@+id/relativeLayout1" >
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/pagetitle"
+            android:text="@string/mylogin_page" />
+    </RelativeLayout>
 
 </LinearLayout>

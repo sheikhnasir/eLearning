@@ -3,5 +3,6 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">My Class</string>
     <string name="title_notifications">Notifications</string>
-  <string name="title_mylogin">eLearning App</string>
+  <string name="title_mylogin">eLearning</string>
+  <string name="mylogin_page">eLearning Login</string>
 </resources>

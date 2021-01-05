@@ -29,6 +29,7 @@ resources;obj\Debug\90\res\values\strings.xml
 resources;obj\Debug\90\res\values\styles.xml
 string;obj\Debug\90\res\values\strings.xml
 style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\activity_login.xml
 TextView;obj\Debug\90\res\layout\activity_main.xml
 vector;obj\Debug\90\res\drawable\ic_dashboard_black_24dp.xml
 vector;obj\Debug\90\res\drawable\ic_home_black_24dp.xml
