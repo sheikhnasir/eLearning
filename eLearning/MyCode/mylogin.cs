@@ -22,6 +22,10 @@ namespace eLearning.MyCode
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             SetContentView(Resource.Layout.activity_login);
 
+            Button loginbtn = FindViewById<Button>(Resource.Id.btnLogin);
+            Button clearbtn = FindViewById<Button>(Resource.Id.btnClear);
+            EditText txtUser = FindViewById<EditText>(Resource.Id.txtUsername);
+            EditText txtPassword = FindViewById<EditText>(Resource.Id.txtPassword);
             // Create your application here
         }
     }
